@@ -13,11 +13,11 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'What i Learned',
 					autogenerate: { directory: 'guides' },
 				},
 				{
-					label: 'Reference',
+					label: 'Resources',
 					autogenerate: { directory: 'reference' },
 				},
 			],
