@@ -1,11 +1,15 @@
 ---
-title: Example Reference
+title: Reference
 description: A reference page in my new Starlight docs site.
 ---
 
-Reference pages are ideal for outlining how things work in terse and clear terms.
-Less concerned with telling a story or addressing a specific use case, they should give a comprehensive outline of what you're documenting.
 
-## Further reading
 
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework
+- watch [about Internet](https://youtu.be/x3c1ih2NJEg) in the Roadmap.sh
+- watch [about PHP](https://youtu.be/zZ6vybT1HQs) in the Roadmap.sh
+- watch [about git and github](https://youtu.be/SWYqp7iY_Tc) in the Roadmap.sh
+- Read [about git](https://cs.fyi/guide/git-cheatsheet) in the Roadmap.sh
+- Read [about Internet](https://youtu.be/x3c1ih2NJEg) in the Roadmap.sh
+- Read [about Internet](https://youtu.be/x3c1ih2NJEg) in the Roadmap.sh
+- Read [about Internet](https://youtu.be/x3c1ih2NJEg) in the Roadmap.sh
+
